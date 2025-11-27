@@ -1105,6 +1105,3 @@ This section summarises the approaches used across sensor operations, SLAM, and 
 - Added sys.path.append to include project root.
 
 
-## 5. Scripts
-All scripts referenced in the extracted documents remain included verbatim in the earlier sections of this file.
-
